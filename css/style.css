@@ -17,7 +17,7 @@ header {
     overflow: hidden;
 }
 
-header > * {
+header>* {
     position: absolute;
 }
 
@@ -34,7 +34,7 @@ header div.welcome {
     text-align: center;
     font-family: 'Saira Condensed', sans-serif;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 60px;
     text-transform: uppercase;
     color: white;
 }
